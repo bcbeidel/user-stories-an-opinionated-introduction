@@ -1,0 +1,11 @@
+
+.extra-large { font-size: 180% }
+.large { font-size: 110% }
+.small { font-size: 70% }
+.highlight {
+  font-weight:bold;
+  background-color: #FFFF00
+}
+.bold {
+  font-weight:bold;
+}
